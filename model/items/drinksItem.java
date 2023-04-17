@@ -1,5 +1,5 @@
 package model.items;
 
-public class drinksItem {
+public class drinksItem extends MenuItem {
     
 }
